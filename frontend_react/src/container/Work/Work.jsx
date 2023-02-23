@@ -1,7 +1,7 @@
 import './Work.scss'
 export function Work() {
   return(
-    <div></div>
+    <div>Work</div>
 
   )
 }
